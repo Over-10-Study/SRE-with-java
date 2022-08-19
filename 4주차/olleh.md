@@ -36,7 +36,7 @@ RC7-SNAPSHOT 이름은 유지한 채, 위 javadoc.jar은 20220816.1234-javadoc.j
 
 ## 6.2.2 빌드 도구를 이용한 릴리즈 버전 관리
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01ea473f-efe7-4d21-85c0-cdbc12aa8f8c/Untitled.png)
+![image](https://user-images.githubusercontent.com/31182783/185717254-97a9358f-c5d5-4551-a3b0-0186a6352058.png)
 
 태그에 어디에 지정되는 건지 모르겠다.(커밋 태그?)
 
@@ -63,7 +63,7 @@ dependencies {
 
 ./gradlew dependencies를 실행한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82b91084-077c-4f82-99eb-fca14132076c/Untitled.png)
+![image](https://user-images.githubusercontent.com/31182783/185717272-aee42f45-6538-4e14-a46e-6c8a90868210.png)
 
 [https://stackoverflow.com/questions/27952388/what-does-arrow-mean-in-gradles-dependency-graph](https://stackoverflow.com/questions/27952388/what-does-arrow-mean-in-gradles-dependency-graph)
 
